@@ -30,5 +30,8 @@ UX Tracker is extremely easy to install and use.
 
 == Changelog ==
 
+= 1.01 =
+*Initial Release
+
 = 1.0 =
 *Initial Release

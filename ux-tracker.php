@@ -4,7 +4,7 @@
 Plugin Name: UX Tracker
 Plugin URI: 
 Description: Analyse user behaviour with Google Analytics and Inspectlet. Easily utilise custom dimensions and advanced heat mapping to determine to understand your website better.
-Version: 1.0
+Version: 1.01
 Author: Ben Parry
 Author URI: http://uiux.me
 */
