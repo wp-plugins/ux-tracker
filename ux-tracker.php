@@ -110,7 +110,21 @@ class UX_Tracker {
 		$trackEverythingScript = '';
 		if(self::$trackEverything) {
 
-			$trackEverythingScript = 'jQuery("body").track({options: {universal:true}});';
+			$trackEverythingScript = '
+			jQuery("body").track({
+				options: {
+			        forms: true,
+			        outbound: true,
+			        email: true,
+			        phone: true,
+			        anchor: true,
+			        universal: true,
+			        debug: false
+			    },
+			    dictionary: [],
+			    additional: []
+			});
+			';
 
 		}
 
