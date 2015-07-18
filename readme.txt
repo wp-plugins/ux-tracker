@@ -1,7 +1,6 @@
 === Plugin Name ===
-Contributors: 
-Donate link: http://example.com/
-Tags: comments, spam
+Contributors: uiux
+Tags: ux, user experience, google analytics, inspectlet, custom dimensions, scroll depth
 Requires at least: 3.0.1
 Tested up to: 4.2.2
 Stable tag:  4.2.2
